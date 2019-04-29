@@ -29,6 +29,9 @@ a {
 a:hover {
 	text-decoration:none;
 }
+
+/* --------------------------头部部分------------------------- */
+/* 顶部标题 */
 .beijing {
 	background:#fff;
 }
@@ -45,6 +48,8 @@ a:hover {
 	width:100%;
 }
 
+/* --------------------------中间内容------------------------- */
+/* 各种服务 */
 .naver{
 	width:94%;
 	margin:10px 3%;
@@ -61,11 +66,74 @@ a:hover {
 .naver li a {
 	color:#666;
 }
-.naver img {
+.naver li img {
 	width:60%;
 	display:block;
 	margin:5px auto;
 }
 .naver li p {
 	text-align:center;
+}
+
+/* 服务人员注册 */
+.fuwury{
+	width: 94%;
+	margin: 10px 3%;
+}
+.fuwury img{
+	width: 100%;
+	border-radius:5px;
+	border:1px solid #ddd;
+}
+
+/* 加盟我们及意见反馈 */
+.jiameng{
+	width:94%;
+	margin:10px 3%;
+	overflow:hidden;
+	border-radius:5px;
+	border:1px solid #ddd;
+	background:#fff;
+}
+.jiameng-left{
+	width: 50%;
+	float: left;
+	padding: 5px;
+	border-right: 1px solid #ddd;
+}
+.jiameng-right{
+	width: 50%;
+	float: right;
+	padding: 5px;
+}
+.jiameng span{
+	font-size: 20px;
+	color: #bfbab7;
+	float: left;
+	padding: 10px;
+}
+.jiameng text{
+	float: left;
+}
+.jiameng h2{
+	font-weight: normal;
+	font-size: 15px;
+	color: #333;
+}
+.jiameng p{
+	color: #666;
+	font-size: 12px;
+}
+
+/* --------------------------底部导航栏------------------------- */
+
+.gm-foot {
+	background:#fff;
+	border-top:1px solid #ddd;
+}
+.am-navbar-nav a {
+	color:#999999;
+}
+.am-navbar-nav .curr a {
+	color:#fe3360;
 }
