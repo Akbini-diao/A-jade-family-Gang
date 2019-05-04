@@ -1,0 +1,72 @@
+/* --------------------------头部部分------------------------- */
+/* 顶部标题 */
+.beijing .am-icon-chevron-left {
+	color:#fe3360;
+}
+
+/* --------------------------中间内容------------------------- */
+/* 头像部分*/
+.toux{
+	width: 100%;
+	background-color: #f5f5f5;
+	text-align: center;
+}
+.toux img{
+	border-radius: 50px;
+    width: 120px;
+    height: 120px;
+    margin: 20px auto;
+    display: block;
+}
+
+.yzm {
+	overflow:hidden;
+	margin:0 3%;
+	width:94%;
+	font-size:1.4rem;
+}
+.input-yzm {
+	float:left;
+	width:40%;
+	border:1px solid #ddd;
+	border-radius:5px;
+	padding:1rem;
+}
+.obtain-yzm {
+	background:#ff2c4c;
+	color:#fff;
+	padding:1rem;
+	border-radius:5px;
+	width:55%;
+	float:right;
+}
+.name {
+	margin:0 3%;
+	width:94%;
+	font-size:1.4rem;
+	padding:1rem;
+	border-radius:5px;
+	border:1px solid #ddd;
+}
+.password{
+	margin:1rem 3%;
+	width:94%;
+	font-size:1.4rem;
+	padding:1rem;
+	border-radius:5px;
+	border:1px solid #ddd;
+}
+.btn {
+	margin:1rem 3%;
+	color:#FFF;
+	text-align:center;
+	display:block;
+	width:94%;
+	font-size:1.6rem;
+	padding:1rem;
+	border-radius:5px;
+	background:#ff2c4c;
+	border:0;
+}
+/* --------------------------底部导航栏------------------------- */
+
