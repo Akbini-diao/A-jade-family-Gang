@@ -1,0 +1,46 @@
+/* --------------------------头部部分------------------------- */
+/* 顶部标题 */
+.beijing .am-icon-chevron-left {
+	color:#fe3360;
+}
+.beijing .am-icon-caret-down {
+	color:#fe3360;
+}
+.bigtu img {
+	width:100%;
+}
+/* --------------------------中间内容------------------------- */
+.naver {
+	width:94%;
+	margin:10px 3%;
+	border-radius:5px;
+	border:1px solid #ddd;
+	background:#fff;
+	/* overflow:hidden; */
+}
+.naver li {
+	border-bottom:1px solid #ddd;
+	padding:1rem 0;
+	margin:0 1rem;
+	/* overflow:hidden; */
+}
+.naver li a {
+	display:block;
+	overflow:hidden;
+	line-height:31px;
+}
+.naver img {
+	width:30px;
+	height:31px;
+	float:left;
+}
+.naver li span {
+	color:#000;
+	float:left;
+	margin-left:2%;
+}
+.naver li .am-icon-angle-right {
+	float:right;
+}
+/* --------------------------底部导航栏------------------------- */
+
