@@ -1,0 +1,61 @@
+/* --------------------------头部部分------------------------- */
+/* 顶部标题 */
+.beijing .am-icon-chevron-left {
+	color:#fe3360;
+}
+
+/* --------------------------中间内容------------------------- */
+.cash{
+	margin: 1rem 3%;
+	background: #fff;
+	border-radius: 5px;
+	overflow: hidden;
+}
+.cash a{
+	font-size: 16px;
+	color: #fff;
+	line-height: 45px;
+	background: #ff2c4c;
+	display: block;
+	padding-left: 1rem;
+	border-radius: 5px 5px 0 0;
+}
+.drawal p:nth-of-type(1){
+	font-size: 15px;
+	text-indent: 1rem;
+	line-height: 40px;
+}
+.drawal p:nth-last-child(1){
+	font-size: 15px;
+	color: #666;
+	text-indent: 1rem;
+	line-height: 40px;
+}
+.show{
+	border-bottom: 1px solid #dedede;
+	overflow: hidden;
+}
+.show span{
+	font-size: 25px;
+	line-height: 40px;
+	float: left;
+	margin-left: 5px;
+}
+.show input{
+	float: left;
+    line-height: 40px;
+}
+.btn {
+	margin:2.5rem 3%;
+	color:#fff;
+	text-align:center;
+	display:block;
+	width:94%;
+	font-size:1.6rem;
+	padding:1rem;
+	border-radius:5px;
+	background:#ff2c4c;
+	border:0;
+}
+/* --------------------------底部导航栏------------------------- */
+
